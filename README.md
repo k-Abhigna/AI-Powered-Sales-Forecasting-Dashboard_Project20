@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning project that predicts future sales using historical sales data and visualizes business insights through an interactive Power BI dashboard.
 
----
+
 
 ## 🚀 Project Overview
 
@@ -17,7 +17,7 @@ This project combines Machine Learning and Business Intelligence to forecast fut
 
 The objective is to help organizations improve demand planning and inventory management.
 
----
+
 
 ## Features
 
@@ -37,7 +37,7 @@ The objective is to help organizations improve demand planning and inventory man
 
 ✔ Forecast vs Actual Sales Comparison
 
----
+
 
 ## Tech Stack
 
@@ -52,7 +52,7 @@ The objective is to help organizations improve demand planning and inventory man
 | Power BI | Dashboard |
 | GitHub | Version Control |
 
----
+
 
 ## Dataset
 
@@ -66,7 +66,7 @@ Example columns:
 - Holiday
 - Region
 
----
+
 
 ## Project Workflow
 
@@ -92,7 +92,7 @@ Sales Prediction
 
 Power BI Dashboard
 
----
+
 
 ## Machine Learning Model
 
@@ -106,7 +106,7 @@ Evaluation Metrics:
 - RMSE
 - R² Score
 
----
+
 
 ## Dashboard Features
 
@@ -118,7 +118,7 @@ Evaluation Metrics:
 - KPI Cards
 - Interactive Filters
 
----
+
 
 ## Installation
 
@@ -146,7 +146,7 @@ Generate predictions
 python src/predict.py
 ```
 
----
+
 
 ## Results
 
@@ -158,7 +158,6 @@ RMSE: 165.22
 
 R² Score: 0.92
 
----
 
 ## Future Improvements
 
@@ -168,14 +167,3 @@ R² Score: 0.92
 - Streamlit Deployment
 - Azure ML Deployment
 
----
-
-## Author
-
-Your Name
-
-LinkedIn:
-https://linkedin.com/in/yourprofile
-
-GitHub:
-https://github.com/yourusername
